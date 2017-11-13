@@ -1,0 +1,9 @@
+body { }
+
+.wrap{text-align:center; width:90%; margin: 0 auto; border: 1px solid black; margin-top:25px;}
+
+.header {background-color:tan; text-align:left; padding:25px; }
+
+.headerText {  height:105px; padding-top:50px;  }
+
+
